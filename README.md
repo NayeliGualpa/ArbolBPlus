@@ -1,8 +1,6 @@
-ÁRBOLES MULTICAMINOS
-ÁRBOL B+
+ÁRBOLES MULTICAMINOS / ÁRBOL B+
 
-INSERCIÓN
-Un Árbol B+ de orden d:
+INSERCIÓN / Un Árbol B+ de orden d:
 Cada nodo interno (no hoja) puede tener entre d y 2d claves.
 Cada hoja puede tener entre d y 2d claves.
 Solo las hojas contienen los datos reales (o claves finales).
